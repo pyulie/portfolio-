@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #F7F1DF; /* set background color */
+}
+
+.header{
+    display: flex; /* use flexbox layout */
+    justify-content: space-between;
+    padding: 25px;
+    
+}
+
+nav{
+    border-bottom: 1px solid #5D3A2C; /* add nav bottom border line */
+    padding-bottom: 10px;
+    text-align: right;
+    width: 100%;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    
+  }
+  nav ul li {
+    display: inline; /* display nav items horizontally */
+    margin-right: 30px; /* add space between navigation links */
+  }
+  nav ul li a{
+    text-decoration: none; /* remove unerline from links */
+    color: #5D3A2C; /* set color for links */
+  }
+  .navcat{
+    width: 100px;
+    float: left;
+    margin-left: 5%;
+    margin-top: -4%;
+  }
+h1{
+    color:#5D3A2C;
+    margin-top: 10%;
+    text-align: center;
+    font-family: "Maitree";
+}
+h2{
+    color:#5D3A2C;
+    text-align: center;
+}
+.description{
+    width: 50%;
+    margin: 0 auto;
+    font-family: Malayalam MN;
+    font-weight: 100;
+}
+
+  
