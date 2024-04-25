@@ -178,7 +178,7 @@ h2{
   width: 60%;
   height: 150%;
   float: right;
-  margin-top: -73.4%;
+  margin-top: -81.1%;
   border: 1px solid #5D3A2C; /* Add a 2px width solid black border */
   /* Add padding to create space between the content and the border */
   box-sizing: border-box; /* Include padding and border in the element's total width and height */
@@ -207,7 +207,7 @@ h2{
 .first-project h1 {
   float: left;
   margin-top: 400px; /* Adjust the margin-top value */
-  font-size: 55px;
+  font-size: 50px;
   margin-left: -350px;
   font-weight: 900;
   font-family: "Malayalam MN", sans-serif; /* Fix font-family declaration */
@@ -236,7 +236,7 @@ h2{
 .learn{
   width: 120px;
   float: left;
-  margin-left: -480px;
+  margin-left: -500px;
   margin-top: 300px;
 }
 .majiaweb{
@@ -245,6 +245,41 @@ h2{
   padding: 20px;
   margin-right: 30px;
   margin-top: -150px;
+  border-radius: 50px;
+}
+.second-project h1{
+  font-size: 50px;
+  float: left;
+  margin-left: -500px;
+  margin-top: 600px;
+  width: 30%;
+  text-align: left;
+}
+.sixth-horizontal-line{
+  clear: both; /* Clear any floating elements */
+  border: 0;
+  height: 1px;
+  background-color: #5D3A2C;
+  width: 150px;
+  margin-left: calc(8% - 40px); /* Adjust the left margin to center the line */
+  margin-top: 80px; /* Adjust the top margin as needed */
+}
+.second-project h2{
+  width: 20%;
+  margin-top: 100px;
+}
+.two-learn{
+  width: 120px;
+  float: left;
+  margin-left: -360px;
+  margin-top: 310px;
+}
+.bakeryweb{
+  width: 500px;
+  float: right;
+  margin-right: 100px;
+  margin-top: -180px;
+  border-radius: 20px;
 }
 
 
