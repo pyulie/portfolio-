@@ -38,57 +38,70 @@ nav ul {
     margin-left: 5%;
     margin-top: -4%;
   }
-  .slayicon{
-    width: 180px;
-    float: right;
-    margin-top: 30px;
-    margin-right: 350px;
-  }
-  .creativeicon{
-    width: 170px;
-    float: left;
-    margin-top: 50px;
-    margin-left: 100px;
-
-  }
-  .sweeticon{
-    width: 180px;
-    float: left;
-    margin-top: -100px;
-    margin-left: 120px;
-  }
-  .happyicon{
-    width: 170px;
-    float: right;
-    margin-top: -200px;
-    margin-right: 150px;
-  }
   .imagineicon{
     width: 180px;
-    margin-top: 100px;
+    float: left;
+    margin-top: 70px;
+    margin-left: 60px;
   }
   .detailicon{
-    width: 190px;
+    width: 170px;
     float: right;
-    margin-top: 100px;
+    margin-top: 80px;
+    margin-right: 240px;
+
+  }
+  .happyicon{
+    width: 120px;
+    float: left;
+    margin-top: -250px;
+    margin-left: 130px;
+  }
+  .supericon{
+    width: 120px;
+    float: right;
+    margin-top: -250px;
+    margin-right: 150px;
+  }
+  .creativeicon{
+    width: 140px;
+    float: left;
+    margin-top: -50px;
+    margin-left:190px;
+  }
+  .slayicon{
+    width: 130px;
+    float: right;
+    margin-top: 10px;
     margin-right: 190px;
+  }
+  .coolicon{
+    width: 140px;
+    margin-top: 120px;
+    margin-left: 70px;
+  }
+  .heheicon{
+    width: 160px;
+    margin-left: 250px;
+    margin-top: 110px;
   }
 h1{
     color:#5D3A2C;
     margin-top: 13%;
     text-align: center;
-    font-family: "Maitree";
-    margin-bottom: 50px;
+    font-family: "Maitree", sans-serif;
+    font-weight: 100;
+    margin-bottom: 70px;
 }
 h2{
     color:#5D3A2C;
+    font-family: "Malayalam MN", sans-serif;
     text-align: center;
+    font-weight: 100;
 }
 .description{
-    width: 50%;
+    width: 55%;
     margin: 0 auto;
-    font-family: Malayalam MN;
-    font-weight: 100;
 }
 .horizontal-line {
   border: 0; /* Remove default border */
@@ -101,12 +114,15 @@ h2{
   color:#5D3A2C;
   margin-left: 100px;
   margin-top: -40px;
+  font-weight: 100;
 }
 .Command{
   color:#5D3A2C;
   float: right;
   margin-right: 100px;
   margin-top: -40px;
+  font-weight:100;
+
 }
 .two-horizontal-line {
   border: 0; /* Remove default border */
@@ -115,77 +131,20 @@ h2{
   margin: 50px 0; /* Adjust margin as needed */
   margin-top: -10px;
 }
-.thought{
-  width:500px;
-  margin-top: 80px;
-  margin-left: 80px;
+.beige-section {
+  background-color: #F2E6D1;
+  width: 50%;
+  height: 70%;
+  margin-top: 10%;
+  border: 1px solid #5D3A2C; /* Add a 2px width solid black border */
+  padding: 20px; /* Add padding to create space between the content and the border */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
-.headshot{
-  width: 500px;
-  float: right;
-  margin-right: 80px;
-  border-radius: 50px;
-  margin-top: 80px;
-}
-.brown-section {
-  background-color: #5D3A2C; /* Set the background color */
-  padding: 100px 100px; /* Add padding for spacing */
-  margin-top: 500px; /* Adjust the top margin to position it below your existing content */
-  margin-bottom: 40px;
-}
-.brown-section h3 {
-  color: #FEF5EA;
-  font-size: 60px;
-  margin-left: 50px;
-  margin-top: 20px;
+.beige-section h3{
+  color:#5D3A2C;
 }
 
-.brown-section h4 {
-  color: #FEF5EA;
-  margin-left: 100px;
-  margin-top: -610px;
-  font-size: 25px;
-}
 
-.brown-section p {
-  color: #FEF5EA;
-  font-size: 20px;
-  margin-left: 100px;
-  margin-bottom: -60px;
-  max-width: 30%;
-}
 
-.brown-section h5 {
-  color: #FEF5EA;
-  font-size: 25px;
-  margin-left: 100px;
-  margin-top: 150px;
-}
 
-.maje-title {
-  color: #FEF5EA;
-  font-size: 25px;
-  margin-left: 100px;
-  margin-top: 123px;
-  margin-bottom: 10px;
-}
 
-.oasis-title {
-  color: #FEF5EA;
-  font-size: 25px; /* Adjust font size as needed */
-  margin-left: 100px; /* Adjust margin as needed */
-  margin-top: 115px; /* Adjust margin-top as needed */
-  margin-bottom: 5px;
-}
-
-.timeline {
-  height: 620px;
-  margin-left: 30px;
-  margin-top: 50px;
-}
-.chillcat{
-  width: 100px;
-  float: right;
-  margin-top: -84px;
-  margin-right: 40px;
-}
